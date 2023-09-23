@@ -1,4 +1,4 @@
-# dataAnalysisPortfolio
+# Data Analysis Portfolio
 A centralized overview of my data analysis portfolio projects.
 
 # My Data Analysis Portfolio
