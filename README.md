@@ -1,7 +1,6 @@
-# Data Analysis Portfolio
+# My Data Analysis Portfolio
 A centralized overview of my data analysis portfolio projects.
 
-# My Data Analysis Portfolio
 Hello! I'm Abdul Hye, a data analyst passionate about business intelligence. This repository provides an overview of my projects, showcasing my skills and achievements in data analysis.
 
 ## Projects:
