@@ -8,14 +8,25 @@ Hello! I'm Abdul Hye, a data analyst passionate about business intelligence. Thi
 ### 1. Covid Analysis https://github.com/abdhye/covidAnalysis
 - **Description**: An analysis on COVID-19 data that shed light on the impact and reach of it in different regions in the world.
 - **Technologies/Tools Used**: MS SQL
+- An excerpt from the code:
+![SQL(2)](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/cfc2c9fc-a0f7-42b8-b5e0-664523ff4e01)
+This code creates a temporary table to store cumulative vaccination data by date for each location after joining the covidDeaths and covidVaccinations tables.
+
 
 ### 2. Electric Vehicle Analysis https://github.com/abdhye/evAnalysis
 - **Description**: This project entails an in-depth exploratory data analysis (EDA) of an electric vehicle population dataset. The analysis provides insights into vehicle types, model year trends, popular makes, electric ranges, pricing, and geographic distribution of electric vehicles.
 - **Technologies/Tools Used**: Jupyter Notebook, Pandas, Seaborn, Matplotlib
+- An excerpt from the code:
+![py(3)](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/92788fcd-07d4-483e-8f4a-8ed2f35d845d)
+![py(4)](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/f5e21404-b208-48ee-a111-467c4aaa15e8)
+
 
 ### 3. Coffee Business Dashboard https://github.com/abdhye/coffeeBusinessDashboard
 - **Description**: A well-crafted dashboard not only provides valuable insights but also tells a compelling story about the business's performance.
 - **Technologies/Tools Used**: Excel
+- An excerpt of the dashboard:
+![dash](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/af493664-970a-43fd-b5a9-dab888b8dcda)
+
 
 ## Skills:
 - **Programming Languages**: Python, SQL
