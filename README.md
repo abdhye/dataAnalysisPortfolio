@@ -14,8 +14,8 @@ Hello! I'm Abdul Hye, a data analyst passionate about business intelligence. Thi
 
 This code creates a temporary table to store cumulative vaccination data by date for each location after joining the Covid_deaths and Covid_vaccinations tables.
 
-### Covid Analysis Dashboard https://github.com/abdhye/covidAnalysisDashboard
-Tableau dashboard to visualize COVID-19 data. https://public.tableau.com/app/profile/abdul.hye/viz/covidAnalysisDashboard/Dashboard1
+### Covid Analysis Dashboard https://public.tableau.com/app/profile/abdul.hye/viz/covidAnalysisDashboard/Dashboard1
+Tableau dashboard to visualize COVID-19 data.
 
 ![cATab](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/714861a2-1872-4458-9f64-7ee483113165)
 
