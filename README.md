@@ -6,13 +6,18 @@ Hello! I'm Abdul Hye, a data analyst passionate about business intelligence. Thi
 ## Projects:
 
 ### 1. Covid Analysis https://github.com/abdhye/covidAnalysis
-- **Description**: An analysis on COVID-19 data that shed light on the impact and reach of it in different regions in the world.
-- **Technologies/Tools Used**: MS SQL
+- **Description**: An analysis on COVID-19 data that shed light on the impact and reach of it in different regions in the world, and then visualized it.
+- **Technologies/Tools Used**: MS SQL, Tableau
 - An excerpt from the code:
 
 ![SQL(2)](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/cfc2c9fc-a0f7-42b8-b5e0-664523ff4e01)
 
 This code creates a temporary table to store cumulative vaccination data by date for each location after joining the Covid_deaths and Covid_vaccinations tables.
+
+### Covid Analysis Dashboard https://github.com/abdhye/covidAnalysisDashboard
+Tableau dashboard to visualize COVID-19 data. https://public.tableau.com/app/profile/abdul.hye/viz/covidAnalysisDashboard/Dashboard1
+
+![cATab](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/714861a2-1872-4458-9f64-7ee483113165)
 
 
 ### 2. Electric Vehicle Analysis https://github.com/abdhye/evAnalysis
