@@ -36,10 +36,18 @@ Tableau dashboard to visualize COVID-19 data.
   
 ![dash](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/af493664-970a-43fd-b5a9-dab888b8dcda)
 
+### 3. Toxic Comment Classifier https://github.com/abdhye/toxic_comment_classifier
+- **Description**: Created a toxic comment classifier by training data on ML algorithms.
+- **Technologies/Tools Used**: Jupyter Notebook, Pandas, Seaborn, Matplotlib, SKlearn
+- An excerpt of the code:
 
-## Skills:
+![tccPy(3)](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/82ece6af-5d07-4595-90c9-fb968f30861e)
+
+This code prepares the data, converts text into a format suitable for machine learning, initializes a Random Forest Classifier, trains it on the training data, and then uses it to make predictions on the test data.
+  
+## My Skills:
 - **Programming Languages**: Python, SQL
 - **Data Visualization Tools**: Matplotlib, Seaborn
-- **Other Tools/Technologies**: Jupyter Notebook, Excel
+- **Other Tools/Technologies**: Jupyter Notebook, Pandas, Seaborn, Matplotlib, SKlearn, Excel
 
 
