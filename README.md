@@ -29,14 +29,23 @@ Tableau dashboard to visualize COVID-19 data.
 ![py(4)](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/f5e21404-b208-48ee-a111-467c4aaa15e8)
 
 
-### 3. Coffee Business Dashboard https://github.com/abdhye/coffeeBusinessDashboard
+### 3. Housing Dataset Cleaning https://github.com/abdhye/housingDataCleaning
+- **Description**: Conducted a comprehensive data cleaning, using SQL, resulting in a refined and organized housing dataset.
+- **Technologies/Tools Used**: MS SQL
+- An excerpt of the code:
+
+  ![ray-so-export](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/00c3dfd2-03f0-4e94-8e62-16ab53e6495f)
+
+I used the above code to change the date format in my database.
+
+### 4. Coffee Business Dashboard https://github.com/abdhye/coffeeBusinessDashboard
 - **Description**: A well-crafted dashboard not only provides valuable insights but also tells a compelling story about the business's performance.
 - **Technologies/Tools Used**: Excel
 - An excerpt of the dashboard:
   
 ![dash](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/af493664-970a-43fd-b5a9-dab888b8dcda)
 
-### 3. Toxic Comment Classifier https://github.com/abdhye/toxic_comment_classifier
+### 5. Toxic Comment Classifier https://github.com/abdhye/toxic_comment_classifier
 - **Description**: Created a toxic comment classifier by training data on ML algorithms.
 - **Technologies/Tools Used**: Jupyter Notebook, Pandas, Seaborn, Matplotlib, SKlearn
 - An excerpt of the code:
