@@ -63,7 +63,7 @@ This code prepares the data, converts text into a format suitable for machine le
 
   ![Hmap](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/577bd3ca-8fd8-4085-8fc7-0e90e694e2f0)
 
-This heatmap shows hight correlation between gross earnings and budget.
+This heatmap shows high correlation between gross earnings and budget.
 
 
 ## My Skills:
