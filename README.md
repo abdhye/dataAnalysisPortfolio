@@ -32,7 +32,7 @@ Tableau dashboard to visualize COVID-19 data.
 ### 3. Housing Dataset Cleaning https://github.com/abdhye/housingDataCleaning
 - **Description**: Conducted a comprehensive data cleaning, using SQL, resulting in a refined and organized housing dataset.
 - **Technologies/Tools Used**: MS SQL
-- An excerpt of the code:
+- An excerpt from the code:
 
   ![ray-so-export](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/00c3dfd2-03f0-4e94-8e62-16ab53e6495f)
 
@@ -48,12 +48,24 @@ I used the above code to change the date format in my database.
 ### 5. Toxic Comment Classifier https://github.com/abdhye/toxic_comment_classifier
 - **Description**: Created a toxic comment classifier by training data on ML algorithms.
 - **Technologies/Tools Used**: Jupyter Notebook, Pandas, Seaborn, Matplotlib, SKlearn
-- An excerpt of the code:
+- An excerpt from the code:
 
 ![tccPy(3)](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/82ece6af-5d07-4595-90c9-fb968f30861e)
 
 This code prepares the data, converts text into a format suitable for machine learning, initializes a Random Forest Classifier, trains it on the training data, and then uses it to make predictions on the test data.
-  
+
+### 6. Movies Analysis https://github.com/abdhye/moviesAnalysis
+- **Description**: This project conducts a comprehensive analysis of a movie dataset, exploring the relationships between budget, gross earnings, and audience ratings to uncover key factors influencing box office success.
+- **Technologies/Tools Used**: Jupyter Notebook, Pandas, Seaborn, Matplotlib
+- An excerpt from the code:
+
+  ![ray-so-export](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/575d41a8-fef2-46a3-9680-464a4d6b7940)
+
+  ![Hmap](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/577bd3ca-8fd8-4085-8fc7-0e90e694e2f0)
+
+This heatmap shows hight correlation between gross earnings and budget.
+
+
 ## My Skills:
 - **Programming Languages**: Python, SQL
 - **Data Visualization Tools**: Matplotlib, Seaborn
