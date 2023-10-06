@@ -38,12 +38,14 @@ Tableau dashboard to visualize COVID-19 data.
 
 I used the above code to change the date format in my database.
 
+
 ### 4. Coffee Business Dashboard https://github.com/abdhye/coffeeBusinessDashboard
 - **Description**: A well-crafted dashboard not only provides valuable insights but also tells a compelling story about the business's performance.
 - **Technologies/Tools Used**: Excel
 - An excerpt of the dashboard:
   
 ![dash](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/af493664-970a-43fd-b5a9-dab888b8dcda)
+
 
 ### 5. Toxic Comment Classifier https://github.com/abdhye/toxic_comment_classifier
 - **Description**: Created a toxic comment classifier by training data on ML algorithms.
@@ -53,6 +55,7 @@ I used the above code to change the date format in my database.
 ![tccPy(3)](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/82ece6af-5d07-4595-90c9-fb968f30861e)
 
 This code prepares the data, converts text into a format suitable for machine learning, initializes a Random Forest Classifier, trains it on the training data, and then uses it to make predictions on the test data.
+
 
 ### 6. Movies Analysis https://github.com/abdhye/moviesAnalysis
 - **Description**: This project conducts a comprehensive analysis of a movie dataset, exploring the relationships between budget, gross earnings, and audience ratings to uncover key factors influencing box office success.
@@ -64,6 +67,17 @@ This code prepares the data, converts text into a format suitable for machine le
   ![Hmap](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/577bd3ca-8fd8-4085-8fc7-0e90e694e2f0)
 
 This heatmap shows high correlation between gross earnings and budget.
+
+
+### 5. Airbnb Vizualization https://github.com/abdhye/airbnbViz
+- **Description**: This Tableau visualization project offers insights into various aspects of the Airbnb platform
+- **Technologies/Tools Used**: Tableau, Data Vizualization
+- An excerpt of the dashboard:
+
+![airbnbViz](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/3487173e-2bfc-4d7c-abba-a366e77baebd)
+
+Access it here: https://public.tableau.com/app/profile/abdul.hye/viz/airbnbViz/Dashboard1
+
 
 
 ## My Skills:
