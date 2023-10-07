@@ -69,7 +69,7 @@ This code prepares the data, converts text into a format suitable for machine le
 This heatmap shows high correlation between gross earnings and budget.
 
 
-### 5. Airbnb Vizualization https://github.com/abdhye/airbnbViz
+### 7. Airbnb Vizualization https://github.com/abdhye/airbnbViz
 - **Description**: This Tableau visualization project offers insights into various aspects of the Airbnb platform
 - **Technologies/Tools Used**: Tableau, Data Vizualization
 - An excerpt of the dashboard:
@@ -77,6 +77,14 @@ This heatmap shows high correlation between gross earnings and budget.
 ![airbnbViz](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/3487173e-2bfc-4d7c-abba-a366e77baebd)
 
 Access it here: https://public.tableau.com/app/profile/abdul.hye/viz/airbnbViz/Dashboard1
+
+
+### 8. Bike Sales Dashboard https://github.com/abdhye/bikeSalesDashboard
+- **Description**: A well-crafted dashboard provides a comprehensive overview of sales performance in the bike market.
+- **Technologies/Tools Used**: Excel
+- An excerpt of the dashboard:
+
+![bikeSales](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/691012f5-07b2-415f-96ec-4c7cec9fbfac)
 
 
 
