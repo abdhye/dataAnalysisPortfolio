@@ -71,7 +71,7 @@ This heatmap shows high correlation between gross earnings and budget.
 
 ### 7. Airbnb Vizualization https://github.com/abdhye/airbnbViz
 - **Description**: This Tableau visualization project offers insights into various aspects of the Airbnb platform
-- **Technologies/Tools Used**: Tableau, Data Vizualization
+- **Technologies/Tools Used**: Tableau
 - An excerpt of the dashboard:
 
 ![airbnbViz](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/3487173e-2bfc-4d7c-abba-a366e77baebd)
@@ -87,10 +87,17 @@ Access it here: https://public.tableau.com/app/profile/abdul.hye/viz/airbnbViz/D
 ![bikeSales](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/691012f5-07b2-415f-96ec-4c7cec9fbfac)
 
 
+### 9.Data Professionals Survey Dashboard https://github.com/abdhye/dataProSurveyDashboard
+- **Description**: Utilized PowerBI to visualize survey data from data professionals, extracting key insights for informed decision-making.
+- **Technologies/Tools Used**: PowerBI
+- An excerpt of the dashboard:
+
+  ![dashboard](https://github.com/abdhye/dataAnalysisPortfolio/assets/56081405/627afb18-6b40-44de-97d0-64581e06bcf0)
+
 
 ## My Skills:
 - **Programming Languages**: Python, SQL
-- **Data Visualization Tools**: Matplotlib, Seaborn
-- **Other Tools/Technologies**: Jupyter Notebook, Pandas, Seaborn, Matplotlib, SKlearn, Excel
+- **Data Visualization Tools**: Matplotlib, Seaborn, PowerBI, Tableau
+- **Other Tools/Technologies**: Jupyter Notebook, Pandas, SKlearn, Excel
 
 
